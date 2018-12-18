@@ -8,6 +8,7 @@ Interface used -
 
 
 Status(); - to get the set of elevators with ID , current floor and destination floor set 
+
 ID -1704856573 current floor -4, Upward Destination floor - [6, 7, 8] , Downward Destination floor - [5]
 
 pickup(Floor ID, Direction )
