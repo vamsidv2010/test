@@ -59,4 +59,5 @@ EAR can be any of the 2 types depending upon the users behavior.
 
 
 ![alt text](https://github.com/vamsidv2010/test/321.png)
+![Alt text](relative/path/to/321.png?raw=true "logic")
 
