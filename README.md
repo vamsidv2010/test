@@ -58,5 +58,5 @@ EAR can be any of the 2 types depending upon the users behavior.
 2.) Opposite - opposite direction as current elevator direction add to downwardDestinationFloors
 
 
-
+![alt text](https://github.com/vamsidv2010/test/321.png)
 
